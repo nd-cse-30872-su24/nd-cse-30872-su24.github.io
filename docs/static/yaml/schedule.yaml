@@ -1,19 +1,14 @@
-- name:     Orientation
-  days:
-      - date:           Fri 05/31
-        topics:         Orientation
-        assignments:
-          - Reading 00
-
 - name:     I/O, Sequence Containers
   days:
       - date:           Mon 06/03
         topics:         I/O, Complexity, Coding Style, Linting
         assignments:
-          - Reading 01
+          - Reading 00
 
       - date:           Wed 06/05
         topics:         Arrays, Lists, Stacks, Queues
+        assignments:
+          - Reading 01
 
       - date:           Sat 06/08
         assignments:
