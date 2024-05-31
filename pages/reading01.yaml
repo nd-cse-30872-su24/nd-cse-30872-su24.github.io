@@ -215,9 +215,8 @@ body:       |
             </div>
 
         - Next, edit the **pull request** title to "Reading 01", write a
-          comment if necessary, assign the **pull request** to the **teaching
-          assistant** (ie. `annaklempay`)  and then press the "Create pull
-          request" button.
+          comment if necessary, assign the **pull request** to the
+          **instructor**  and then press the "Create pull request" button.
 
             <div class="thumbnail">
             <img src="static/img/github-new-pull-request.png" class="img-responsive"/>
