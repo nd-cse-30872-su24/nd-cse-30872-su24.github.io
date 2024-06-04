@@ -16,6 +16,9 @@
         topics:         Arrays, Lists, Stacks, Queues
         assignments:
           - Reading 01
+        items:
+          - name:       Slides 02
+            link:       https://docs.google.com/presentation/d/1R6Q9PEKPx_zqGFMxJHYJdL884bfAno2F-E9DqZi6tcc/edit?usp=sharing
 
       - date:           Sat 06/08
         assignments:
