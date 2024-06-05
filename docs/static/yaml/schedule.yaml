@@ -38,6 +38,9 @@
 
       - date:           Wed 06/12
         topics:         Sets, Maps
+        items:
+          - name:       Slides 04
+            link:       https://docs.google.com/presentation/d/1WIpUHNYcSknGJCDZOQYqt-4QTsLJE0jsiZRfF1lQDZ4/edit?usp=sharing
 
       - date:           Sat 06/15
         assignments:
