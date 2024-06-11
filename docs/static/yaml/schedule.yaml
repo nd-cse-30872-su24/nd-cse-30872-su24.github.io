@@ -37,6 +37,8 @@
         items:
           - name:       Slides 03
             link:       https://docs.google.com/presentation/d/1Z3s4gkyaCIuDeUCOBZLgM8g_1XJsyHlZP01EJDRiSUg/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de388c16-8c55-452d-ad1a-b18c00229fa6
 
       - date:           Wed 06/12
         topics:         Sets, Maps
