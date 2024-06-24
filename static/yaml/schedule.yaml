@@ -132,9 +132,15 @@
         topics:         Representation, Traversal
         assignments:
           - Reading 06
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1QfistFqfJKZcuRW5VOLvPbtNShQbQqGy8rMRvYLAV5s/edit?usp=sharing
 
       - date:           Wed 07/10
         topics:         Shortest Paths, Spanning Trees
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1QfistFqfJKZcuRW5VOLvPbtNShQbQqGy8rMRvYLAV5s/edit?usp=sharing
 
       - date:           Sat 07/13
         assignments:
