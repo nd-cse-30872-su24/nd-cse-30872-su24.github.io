@@ -117,12 +117,16 @@
         items:
           - name:       Slides 09
             link:       https://docs.google.com/presentation/d/1ckepAHvS7UPUjpVGMwAcHL2C23WJay5R0j2JIQF4r_Q/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc3429bd-6f3a-4b26-8765-b1a10027826e
 
       - date:           Wed 07/03
         topics:         Divide and Conquer
         items:
           - name:       Slides 09
             link:       https://docs.google.com/presentation/d/1ckepAHvS7UPUjpVGMwAcHL2C23WJay5R0j2JIQF4r_Q/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a509fc4-e637-41ef-9386-b1a3001daf84
 
       - date:           Sat 07/06
         assignments:
