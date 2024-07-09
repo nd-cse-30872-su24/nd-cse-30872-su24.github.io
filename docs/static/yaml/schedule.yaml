@@ -143,6 +143,8 @@
         items:
           - name:       Slides 10
             link:       https://docs.google.com/presentation/d/1QfistFqfJKZcuRW5VOLvPbtNShQbQqGy8rMRvYLAV5s/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e4e4c5a-1489-492d-9954-b1a80020f9fb
 
       - date:           Wed 07/10
         topics:         Shortest Paths, Spanning Trees
