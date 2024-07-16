@@ -169,6 +169,8 @@
         items:
           - name:       Slides 11
             link:       https://docs.google.com/presentation/d/1UkSxR8hnML7wGph07S-asFPZv5tQkPNg_tnZwKrWsjk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba055bd6-119d-4a02-be0a-b1af0019dc1c
 
       - date:           Wed 07/17
         topics:         Paths, Flows
